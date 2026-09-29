@@ -1,4 +1,4 @@
-# Word Vector in Natural Language Processing
+# Word Vectors in Natural Language Processing
 
 ## Overview
 
@@ -117,8 +117,8 @@ These results show that word2vec tends to associate female doctors with roles in
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/kapshaul/NLP-WordVector.git
-cd NLP-WordVector
+git clone https://github.com/kapshaul/nlp-word-vectors.git
+cd nlp-word-vectors
 pip install -r requirements.txt
 ```
 
